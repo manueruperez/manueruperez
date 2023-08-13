@@ -10,12 +10,6 @@ src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546cc
   
 - 🌱 I’m currently learning **react and python**  
   
-- 👯 I’m looking to collaborate on [something](something)  
-  
-- 🤝 I’m looking for help with [something](something)  
-  
-- 📝 I regularly write articles on [https://github.com/manueruperez](https://github.com/manueruperez)  
-  
 - 💬 Ask me about **angular, vue, node or express**  
   
 - 📫 How to reach me **manueruperez@gmail.com**  
